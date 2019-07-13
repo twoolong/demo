@@ -1,4 +1,4 @@
-# Share My Data Science Learning Results :+1:
+# Share My Data Science Learning Results  :+1:
 ## This is a repository used to demonstrate how to present coding works online.
 
 **You can click the icon below to access my Jupyter Notebook used for demo.**  
